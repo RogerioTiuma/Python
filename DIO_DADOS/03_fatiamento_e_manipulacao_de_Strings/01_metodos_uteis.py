@@ -20,3 +20,7 @@ curso = "Python"
 print(curso.center(21,"#"))
 
 print(".".join(curso))
+
+#abacate
+
+gdfgdf
