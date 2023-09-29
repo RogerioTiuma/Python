@@ -14,3 +14,9 @@ print(curso.strip())
 print(curso.lstrip())
 
 print(curso.rstrip())
+
+curso = "Python"
+
+print(curso.center(21,"#"))
+
+print(".".join(curso))
